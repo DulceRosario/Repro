@@ -1,0 +1,12 @@
+numpy
+xarray
+datetime
+matplotlib
+matplotlib.pyplot
+cartopy
+pytz
+geopandas
+json
+os
+sys
+IPython
