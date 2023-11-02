@@ -6,5 +6,4 @@ cartopy
 pyogrio
 pytz
 geopandas
-os
-sys
+
