@@ -3,9 +3,8 @@ xarray
 datetime
 matplotlib
 cartopy
+pyogrio
 pytz
 geopandas
-json
 os
 sys
-IPython
