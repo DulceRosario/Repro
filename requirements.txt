@@ -1,4 +1,4 @@
-numpy
+cdfnumpy
 xarray
 datetime
 matplotlib
@@ -6,4 +6,4 @@ cartopy
 pyogrio
 pytz
 geopandas
-
+netcdf4
